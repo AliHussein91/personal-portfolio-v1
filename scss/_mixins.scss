@@ -1,0 +1,64 @@
+@mixin flexContent($justify) {
+    display: flex;
+    justify-content: $justify;
+    align-items: center;
+}
+
+@mixin btnStyle {
+    padding: 13px 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    border: 2px solid $theme-primary;
+    background-color: $theme-primary;
+    color: $theme-white;
+    text-decoration: none;
+    transition: ease all 0.35s;
+    font-weight: 500;
+    outline: none;
+    box-shadow: none;
+    text-transform: uppercase;
+    &:hover {
+        background-color: $theme-black;
+        color: $theme-white;
+        border: 2px solid $theme-white;
+    }
+}
+
+@mixin sectionTitle {
+    background: rgba(7, 136, 255, 0.2);
+    border-radius: 4px;
+    padding: 5px 12px;
+    display: inline-block;
+    color: $theme-white;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+@mixin sectionH2 {
+    color: $theme-white;
+    margin: 0;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+@mixin sectionP {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    color: $theme-white;
+}
+
+@mixin decoration {
+    color: $theme-primary;
+    font-weight: 700;
+    font-size: 45px;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+}

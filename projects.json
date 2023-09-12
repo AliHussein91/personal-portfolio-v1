@@ -1,0 +1,42 @@
+[
+    {
+        "projectType": "Sample Project",
+        "projectName": "Website Design for Marketing Agency Startup",
+        "projectImage": "./img/sample.jpg",
+        "languages": "HTML, CSS, JS",
+        "Country": "Egypt",
+        "Live URL": "https://google.com"
+    },
+    {
+        "projectType": "Sample Project",
+        "projectName": "Website Design for Marketing Agency Startup",
+        "projectImage": "./img/sample.jpg",
+        "languages": "HTML, CSS, JS",
+        "Country": "Egypt",
+        "Live URL": "https://google.com"
+    },
+    {
+        "projectType": "Sample Project",
+        "projectName": "Website Design for Marketing Agency Startup",
+        "projectImage": "./img/sample.jpg",
+        "languages": "HTML, CSS, JS",
+        "Country": "Egypt",
+        "Live URL": "https://google.com"
+    },
+    {
+        "projectType": "Sample Project",
+        "projectName": "Website Design for Marketing Agency Startup",
+        "projectImage": "./img/sample.jpg",
+        "languages": "HTML, CSS, JS",
+        "Country": "Egypt",
+        "Live URL": "https://google.com"
+    },
+    {
+        "projectType": "Sample Project",
+        "projectName": "Website Design for Marketing Agency Startup",
+        "projectImage": "./img/sample.jpg",
+        "languages": "HTML, CSS, JS",
+        "Country": "Egypt",
+        "Live URL": "https://google.com"
+    }
+]

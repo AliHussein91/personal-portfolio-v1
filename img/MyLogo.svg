@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1034.01 1172.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff5600;
+      }
+
+      .cls-3 {
+        font-family: FiraMonoForPowerline-Bold, 'Fira Mono for Powerline';
+        font-size: 466.47px;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #ffc13f;
+      }
+
+      .cls-5 {
+        fill: #051b30;
+      }
+    </style>
+  </defs>
+  <path class="cls-5" d="M962.75,1033.4H71.26c-39.19,0-70.96-31.77-70.96-70.96V70.96C.31,31.77,32.07,0,71.26,0H962.75c39.19,0,70.96,31.77,70.96,70.96V962.44c0,39.19-31.77,70.96-70.96,70.96Z"/>
+  <text class="cls-3" transform="translate(97.19 448.53)"><tspan class="cls-4" x="0" y="0">{</tspan><tspan class="cls-1" x="279.88" y="0">Al</tspan><tspan class="cls-1" x="0" y="490.39">i</tspan><tspan class="cls-4" x="279.88" y="490.39">}</tspan><tspan class="cls-2" x="559.75" y="490.39">;</tspan></text>
+</svg>
